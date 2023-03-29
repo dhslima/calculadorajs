@@ -63,3 +63,5 @@ function limpar(){
     document.getElementById("resultado").value = "";
 }
 
+
+
